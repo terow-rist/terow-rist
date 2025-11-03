@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=terow-rist&show_icons=true&theme=transparent"/>
 </div>
 
-<summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </summary>summary>
+<summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </summary>
 
 ```javascript
 const johny = {

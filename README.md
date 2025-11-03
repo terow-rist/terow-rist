@@ -7,12 +7,18 @@
 </picture>
 
 
-<summary><h3>🐱‍👓 Statistics </summary>
+<summary><h2>🥞 Statistics </summary>
 <img alt="terow-rist Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=terow-rist&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terow-rist&layout=compact&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api?username=terow-rist&show_icons=true&theme=transparent"/>
 </div>
 
-<summary><h3>❄️I use nixos btw </summary>
+
+<summary><h2>
+  <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" width="25" height="25" style="vertical-align: middle;"/>
+  <strong> I use NixOS btw</strong>
+</summary>
+
+
 <img src="https://media1.tenor.com/m/7jLpXSYM_6UAAAAd/dante-dmc.gif" alt="LONELY LONELY, I GUESS IM LONELY" width="800" height="400" >

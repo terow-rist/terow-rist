@@ -9,10 +9,6 @@
 
 <summary><h2>🥞 Statistics </summary>
 <img alt="terow-rist Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=terow-rist&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terow-rist&layout=compact&theme=transparent"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=terow-rist&show_icons=true&theme=transparent"/>
-</div>
 
 <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </summary>
 

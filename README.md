@@ -10,35 +10,6 @@
 <summary><h2>🥞 Statistics </summary>
 <img alt="terow-rist Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=terow-rist&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
-<summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </summary>
-
-```javascript
-const terow-rist = {
-    pronouns: "He" | "Him",
-    code: ["Go", "Python", "Bash", "Java"],
-    askMeAbout: ["backend systems", "DevOps", "serverless", "Linux", "NixOS", "cloud deployment"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-        },
-        backEnd: {
-            go: ["net/http", "gorilla/websocket"],
-            python: ["FastAPI"],
-        },
-        devOps: ["Docker🐳", "Nix/NixOS", "Ansible", "GitHub Actions", "GitLab CI/CD", "Nginx", "Git"],
-        cloudServices: ["Cloudflare", "Vercel"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
-        misc: ["REST APIs", "WebSockets", "Microservices", "Serverless Functions", "RabbitMQ"],
-    },
-    architecture: {
-        backEnd: ["microservices", "serverless", "monolithic", "message-driven"],
-        devOps: ["CI/CD pipelines", "Infrastructure as Code", "immutable builds"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Building efficient backend and DevOps systems with Go and NixOS",
-    funFact: "I can break and fix systems faster with Nix!"
-};
-```
 
 <summary><h2>
   <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" width="25" height="25" style="vertical-align: middle;"/>

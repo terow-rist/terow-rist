@@ -1,4 +1,4 @@
-<h1 align="center">HEEEELLLLLLLOOOOOO, I'm Madikozha🐺✔</h1>
+<h1 align="center">HEEEELLLLLLLOOOOOO, I'm Madikozha!!!</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/terow-rist/terow-rist/output/github-contribution-grid-snake-dark.svg">
